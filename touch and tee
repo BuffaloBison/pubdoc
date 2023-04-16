@@ -1,0 +1,3 @@
+If you don’t want tee to write to the standard output, you can redirect it to /dev/null:
+
+command | tee file.out >/dev/null
