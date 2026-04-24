@@ -1,0 +1,10 @@
+[package]
+name = "gemini_clear_browser"
+version = "2.0.0"
+edition = "2021"
+description = "Gemini Clear Browser – a privacy-focused web browser for Linux (Rust port of the macOS Swift app)"
+
+[dependencies]
+gtk = "0.18"
+glib = "0.18"
+webkit2gtk = { version = "2.0", features = ["v2_16"] }
