@@ -1,0 +1,9 @@
+[package]
+name = "gemini_clear_browser"
+version = "2.0.0"
+edition = "2021"
+description = "Gemini Clear Browser – a privacy-focused web browser for macOS (Rust port using native AppKit + WebKit)"
+
+[dependencies]
+cacao = { version = "0.3", features = ["webview"] }
+block = "0.1"
