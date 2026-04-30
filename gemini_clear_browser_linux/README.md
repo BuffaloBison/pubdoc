@@ -1,4 +1,4 @@
-# Gemini Clear Browser (Linux)
+# DEVIN Clear Browser (Linux)
 
 A privacy-focused web browser for Linux, built with Rust using GTK 3 and WebKit2GTK. This is a port of the macOS Swift app **Gemini_browser_clear.app**.
 
